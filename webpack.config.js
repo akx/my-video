@@ -22,6 +22,6 @@ module.exports = {
     ],
   },
   plugins: [
-    new HtmlWebpackPlugin({title: 'my video!'}),
+    new HtmlWebpackPlugin({title: 'Childish Gambino - Put it in my Video'}),
   ],
 };
